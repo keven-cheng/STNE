@@ -1,0 +1,6 @@
+程序说明：
+STWalk1\STWalk2用于生成动态网络数据集（Ciao、DBLP、Epinion）的嵌入表示；
+
+Evaluation_CIAO\Evaluation_DBLP等用于从作者给的标签数据表中提取出我所用的标签信息，即用户类别信息；
+
+Evaluation_cheng用于读取生成的标签信息及嵌入表示数据进行分类实验的测试；
